@@ -142,19 +142,10 @@ Mech-Agri/
 5. Connect Arduino Serial TX/RX to ESP32 pins 16/17
 6. Power up — data streams to Blynk dashboard automatically
 
-> ⚠️ Never commit real credentials. Use placeholders and add a `.gitignore`
-> for any config files containing tokens or passwords.
-
----
-
-## Built
-
-2023 · Science Expo · Age 15
-
 ---
 
 ## Note
 
 Code preserved from expo build. The final expo version used capacitive
-moisture sensors; this code reflects an earlier resistive-sensor iteration.
-Circuit diagrams and hardware photos included.
+moisture sensors, NPK sensors and more; this code reflects an earlier resistive-sensor iteration.
+Circuit diagrams and hardware photos included. 
