@@ -19,9 +19,9 @@ dashboard from anywhere.
 ## Hardware Photos
 
 <p align="center">
-  <img src="docs/v1_top.jpg" width="45%" alt="Mech-Agri v1 top view"/>
+  <img src="oldermodel\.png" width="45%"
   &nbsp;&nbsp;
-  <img src="docs/v1_expo.jpg" width="45%" alt="Mech-Agri at expo"/>
+  <img src="oldermodel2\.png" width="45%"
 </p>
 
 > Handmade octagonal cardboard enclosure with Arduino, ESP32, breadboard,
